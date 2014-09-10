@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<mongo>
+	<mongoconfig>
+		<port>27017</port>
+		<host>localhost</host>
+		<DB>TestDB</DB>
+		<collection>TestCollection</collection>
+	</mongoconfig>
+</mongo>
